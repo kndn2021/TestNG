@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="96" started-at="2022-01-13T22:34:14 IST" finished-at="2022-01-13T22:34:14 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="96" started-at="2022-01-13T22:34:14 IST" finished-at="2022-01-13T22:34:14 IST">
+      <class name="keywordsOrAttributes.ParameterTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:keywordsOrAttributes.ParameterTest@1c3a4799]" name="setUp" duration-ms="10" started-at="2022-01-13T22:34:14 IST" finished-at="2022-01-13T22:34:14 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[www.google.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.google.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[www.google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- keywordsOrAttributes.ParameterTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
